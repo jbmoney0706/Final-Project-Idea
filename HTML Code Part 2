@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="styelsheet.css" />
+        <title>Result</title>
+    </head>
+    <body>
+        <h4>Some Random Things</h4>
+        <p>Several Daily Tasks</p>
+        <ul>
+            <li>Weed the garden</li>
+            <li>Weed the frontyard</li>
+            <li>Weed the backyard</li>
+            <li>Vacuum House</li>
+            <li>Mop the Floors</li>
+            <li>Wash the Windows</li>
+            <li>Pick up sticks and branches</li>
+        </ul>
+            <a href="http://www.google.com"></a>
+            <a href="http://www.narutoget.com"><img src="http://4.bp.blogspot.com/-AB8Aj9psuzU/TY_ovBKOJ-I/AAAAAAAADZM/YU-RTA6QeOk/s1600/Workspace%2B001.JPG" /></a>
+            <a href="http://www.unclutterer.com">Great site for obtaining organization tips!</a>
+        <h1>Daily Grooming Habits & Personal Hygiene</h1>
+            <p>Shower & Shave, Brush Teeth, Cut Nails, Apply Deodorant, Floss Teeth</p>
+        <h3>Tidy Up & Get Organized: Daily Rituals for Starting the day</h3>
+            <p>Get Dressed(Change Clothes), Make Bed, Straighten Room, Pack Backpack, Eat Breakfast, Pack Lunch</p>
+        <h5>Tasks and Chores to be Completed Today, Daily</h5>
+            <p>Do Laundry, Wash Dishes, Load & Unload Dishwasher, Exercise, Check Email, Delete Emails, Practice Writing, Check Bank Balance</p>
+        <h2>Reasons for Completing Chores</h2>
+            <p>To earn <strong>points</strong>, feel good about accomplishing tasks, being allowed to stay up later, get a favorite meal</p>
+        <h4>Other Tasks to be Tackled</h4>
+            <p>Go to <strong>class</strong>, find a job, do homework, study for test, help make dinner</p>
+    </body>
+</html>
