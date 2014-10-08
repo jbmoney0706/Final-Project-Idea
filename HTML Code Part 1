@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" rel="styelsheet" href="stylesheet.css" />
+        <title>My webpage & final project will be awesome! Play a game to complete daily tasks (challenges)!"</title>
+    </head>
+    <body>
+        <div id="header></div>
+        <div class="left"></div>
+        <div class="right"></div>
+        <div id="footer"></div>
+        
+        <h1>List of Daily Tasks & Chores: To Do List</h1>
+        <ol>
+            <li>Shower</li>
+            <li>Shave</li>
+            <li>Brush & Floss <strong>Teeth</strong></li>
+            <li>Cut <strong>Nails</strong></li>
+            <li>Make Bed</li>
+            <li>Get Dressed</li>
+            <li>Pack Backpack</li>
+            <li>Eat Breakfast</li>
+            <li>Pack Lunch</li>
+            <li>Go to School</li>
+            <li>Do Laundry</li>
+            <li>Wash Dishes</li>
+            <li>Load & Unload Dishwasher</li>
+            <li>Look for a Job</li>
+            <li>Attend all Classes</li>
+            <li>Go to work</li>
+            <li>Study for test</li>
+            <li>Straighten Room</li>
+            <li>Help make dinner</li>
+            <li>Take out Garbage</li>
+            <li>Check and Delete Emails</li>
+            <li>Check Bank Balance</li>
+        </ol>
+        
+        <h2>Completed Tasks & Chores</h2>
+        <ol>
+            <li>Showered & Shaved</li>
+            <li>Brushed & Flossed Teeth</li>
+            <li>Made Bed</li>
+            <li>Straightened Room</li>
+            <li>Ate Breakfast</li>
+            <li>Packed Lunch</li>
+            <li>Packed Backpack</li>
+            <li>Went to School</li>
+            <li>Attended all Classes</li>
+            <li>Checked and Deleted Emails</li>
+            <li>Checked Bank Balance</li>
+            <li>Took out Garbage</li>
+            <li>Loaded & Unloaded Dishwasher</li>
+        </ol>
+        
+        <h3>Uncompleted: Remaining Tasks & Chores</h3>
+        <ol>
+            <li>Exercise</li>
+            <li>Do Dishes</li>
+            <li>Do Laundry</li>
+            <li>Do Homework</li>
+            <li>Study for test</li>
+            <li>Look for a job</li>
+            <li>Go to work</li>
+            <li>Help make dinner</li>
+            <li>Cut Nails</li>
+        <ol>    
+    </body>
+</html>
