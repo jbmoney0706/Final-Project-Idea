@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="stylesheet.css" />
+        <title>Results</title>
+    </head>
+    <body>
+        <h3>Game Design</h3>
+            <p id="intro">I hope people enjoy the game I am designing. I am very new to computer coding and programming so my final
+            project and game will not be as fluid or complex as that of a more experienced computer programmer.  This is the first
+            serious computer programming and coding class I have taken and it we learned how to code in and use C, HTML, CSS, PHP
+            MYSQL and finally we learned about JavaScript.</p>
+            <p>The final project I am proposing to work on and complete will mainly utilize elements of HTML, CSS, PHP and JavaScript
+            with maybe jQuery thrown in there to make it more interesting and user friendly.  This is because these four computer
+            languages are more user-friendly than C and are not rigid or literal in their logic and are more open to interpretation.</p>
+            <p>In the game that will be entered as my final project, the user will be asked to create a list of daily tasks and chores,
+            to be completed each or just for that day.  The program will allow the user to modify their list, by either increasing or 
+            decreasing the number of tasks they are to complete.  The user will also be able to check off completed tasks and keep track
+            of the number of chores they have finished.  At the end of the day after entering in their name and password, the user will 
+            be able to see how many points they have earned, their total number of tasks, how many tasks they completed for that day
+            and how many uncompleted tasks & chores they have left.</p>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="3">My Final Project</th>
+                </tr>
+                <tr>
+                    <th>User Names</th>
+                    <th>Frequency of Users</th>
+                    <th>Date Users Joined Website</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Jacob Braun</td>
+                    <td>Six Times</td>
+                    <td>08-15-2014</td>
+                </tr>
+                
+                <tr>
+                    <td>Alexandra Braun</td>
+                    <td>Five Times</td>
+                    <td>07-26-2014</td>
+                </tr>
+                
+                <tr>
+                    <td>Rose Ann Feldman</td>
+                    <td>Four Times</td>
+                    <td>09-01-2014</td>
+                </tr>
+                
+                <tr>
+                    <td>Nehemiah Dacres</td>
+                    <td>Three Times</td>
+                    <td>09-15-2014</td>
+                </tr>
+                
+                <tr>
+                    <td>Brent Mueller</td>
+                    <td>Eight Times</td>
+                    <td>06-15-2014</td>
+                </tr>    
+            </tbody>
+    </body>
+</html>
