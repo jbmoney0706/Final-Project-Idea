@@ -17,5 +17,18 @@
         echo "You have completed ten tasks."
         echo "You have five more to finish your entire list."
     ?>
+    <?php
+        if user list of daily tasks = 10
+            echo "Please complete half or more."
+    ?>
+    <?php
+        if users completed tasks = n
+            return n += 2 points
+        elseif users completed tasks < n
+            return 0;
+        else
+            return n -= 1
+    ?>
+            
     </body>
 </html>
