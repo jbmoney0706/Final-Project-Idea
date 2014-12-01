@@ -5,10 +5,37 @@ body {
 img {
     height: 170px;
     width: 170px;
+}
     
 h2 {
     font-family: Arial, cursive;
     text-align: center;
     font-weight: bold;
     color: purple;
+}
+
+#header {
+    position: relative;
+    z-index: 1;
+    background-color: orange
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: left;
+    color: crimson
+}
+
+* {
+    borer: 3px dotted #3A5FCD;
+}
+
+div {
+    background-color: #cc0000;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    border: dashed;
 }
