@@ -39,3 +39,15 @@ div {
     padding: 50px 50px 50px 50px;
     border: dashed;
 }
+
+p {
+    font-size: 1em;
+    color: dark green;
+    border: dashed;
+    font-family: cursive;
+}
+
+ul {
+    position: fixed;
+    margin: -10px;
+}
