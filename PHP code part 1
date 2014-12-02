@@ -10,6 +10,30 @@
     <?php
         echo $_SERVER[DAILY_CHORE];
     ?>
+    <?php
+        $welcome = "Let's get started with PHP!";
+        echo $welcome;
+    ?>
+    <?php
+        for ($users = 1; $users <= 10; $users++) {
+            if ($users <= 9) {
+                echo $users . ", ";
+            } else {
+                echo $users . "!";
+            }
+        }; ?>
+        
+    <?php
+        for ($name = 1; $name <= 10; $name++) {
+            if ($name <= 9) {
+                echo $name . ", ";
+            } else {
+                echo $name . "!";
+            }
+        }; ?>
+        
+    <?php
+        
     Hi <?php echo htmlspecialchars($_POST['name']); ?>.
     You are <?php echo (int)$_POST['age']; ?> years old.
     You have <?php echo (int)$_POST['number of daily chores']; ?> to complete.
