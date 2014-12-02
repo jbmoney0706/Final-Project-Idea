@@ -29,6 +29,11 @@
         else
             return n -= 1
     ?>
+    <?php
+        n = 5
+        x = 1
+        y = x + 1
+    ?>
             
     </body>
 </html>
