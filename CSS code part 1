@@ -77,4 +77,9 @@ td img {
     box-shadow: none;
 }
 
-
+th {
+    font-family: Verdana;
+    font-size: 1em;
+    font-weight: normal;
+    color: #3c4543;
+}
