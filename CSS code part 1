@@ -83,3 +83,12 @@ th {
     font-weight: normal;
     color: #3c4543;
 }
+
+table {
+    border: #000000 1px solid;
+    background-color: #acd1b2;
+    float: right;
+    margin-right: 10px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
