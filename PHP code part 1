@@ -58,6 +58,7 @@
         x = 1
         y = x + 1
     ?>
+    $(document).ready(main);
             
     </body>
 </html>
